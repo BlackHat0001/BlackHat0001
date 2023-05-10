@@ -1,7 +1,9 @@
 <h1 align="center">Sup Bitches, I'm BlackHat</h1>
 <h3 align="center">^w^</h3>
 
-- 🔭 I’m currently working on **Project TinMan**
+- 🔭 I’m currently working on **Project TinMan*
+- I also run an [Airsoft Tiktok Account](https://www.tiktok.com/@blackhatairsoft) :))
+
 
 <p align="left">
 </p>
