@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **Project TinMan**, a multiplayer coop survival horror game being built in Unity
 - I also run an [Airsoft Tiktok Account](https://www.tiktok.com/@blackhatairsoft) :))
 
-- I'm an Electrical and Electronic Engineering Student (2st Year) at the [University of Nottingham](https://www.nottingham.ac.uk)
+- I'm an Electrical and Electronic Engineering Student (2nd Year) at the [University of Nottingham](https://www.nottingham.ac.uk)
 
 
 <p align="left">
