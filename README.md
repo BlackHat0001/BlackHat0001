@@ -1,4 +1,4 @@
-<h1 align="center">Sup Bitches, I'm BlackHat</h1>
+<h1 align="center">Helloooo I'm Dan</h1>
 <h3 align="center">^w^</h3>
 
 - 🔭 I’m currently working on **Project TinMan**, a multiplayer coop survival horror game being built in Unity
