@@ -1,7 +1,7 @@
 <h1 align="center">Hellooo I'm Dan</h1>
 <h3 align="center">^w^</h3>
 
-- 🔭 I’m currently working on **Project TinMan**
+- 🔭 I’m currently working on **SCP Project Omega**
 - 📝 I study Electronic and Computer Engineering (2nd Year) at the University of Nottingham
 
 <h3 align="left">Languages and Tools:</h3>
